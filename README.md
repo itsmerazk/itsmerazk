@@ -1,7 +1,7 @@
 # Welcome to Giga Razki Github!
 ## About Me : 
 - 👋 Hi, I’m Giga Razki,
-- 👀 I’m interested in Software Developer and Web Developer 
+- 👀 I’m interested in Software Engineering 
 - 🌱 I’m currently learning Android Developer 
 
 
