@@ -8,6 +8,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/gigarazkiarianda/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gigarazkiarianda/)
+| [![Kaggle Logo](https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png)]([https://www.kaggle.com/](https://www.kaggle.com/gigarazki))               |
 
 ## My Skill Set
 
