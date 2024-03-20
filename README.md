@@ -13,11 +13,11 @@
 
 
 
-| Logo/Framework                | Link                                        |
-|-------------------------------|---------------------------------------------|
-| ![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)         | [React](https://reactjs.org/)               |
-| ![Tailwind CSS Logo](https://upload.wikimedia.org/wikipedia/commons/4/46/Logo_Tailwind_CSS.svg)   | [Tailwind CSS](https://tailwindcss.com/)           |
-| ![Bootstrap Logo](https://upload.wikimedia.org/wikipedia/commons/e/ea/Boostrap_logo.svg)      | [Bootstrap](https://getbootstrap.com/)          |
+| Logo/Framework                |
+|-------------------------------|
+| [![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)](https://reactjs.org/)         |
+| [![Tailwind CSS Logo](https://upload.wikimedia.org/wikipedia/commons/4/46/Logo_Tailwind_CSS.svg)](https://tailwindcss.com/)   |
+| [![Bootstrap Logo](https://upload.wikimedia.org/wikipedia/commons/e/ea/Boostrap_logo.svg)](https://getbootstrap.com/)      |
 
 
 | AI and Data Scientist | Link                                        |
