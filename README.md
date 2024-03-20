@@ -11,17 +11,17 @@
 
 ## My Skill Set
 
-### Frontend
 
-| Logo/Framework | Link                                        |
+
+| Front End      | Link                                        |
 |----------------|---------------------------------------------|
 | React          | [Link](https://reactjs.org/)               |
 | Tailwind CSS   | [Link](https://tailwindcss.com/)           |
 | Bootstrap      | [Link](https://getbootstrap.com/)          |
 
-### AI and Data Scientist
 
-| Logo/Framework | Link                                        |
+
+| AI and Data Scientist | Link                                        |
 |----------------|---------------------------------------------|
 | Jupyter Notebook | [Link](https://jupyter.org/)              |
 | Python         | [Link](https://www.python.org/)            |
