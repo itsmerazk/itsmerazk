@@ -11,25 +11,12 @@
 
 ## My Skill Set
 
-
-
-## My Skill Set
-
-
-
-|  Frontend               |
-|-------------------------------|
-| [![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)](https://reactjs.org/)         |
-| [![Tailwind CSS Logo](https://upload.wikimedia.org/wikipedia/commons/4/46/Logo_Tailwind_CSS.svg)](https://tailwindcss.com/)   |
-| [![Bootstrap Logo](https://upload.wikimedia.org/wikipedia/commons/e/ea/Boostrap_logo.svg)](https://getbootstrap.com/)      |
-
-
-| AI and Data Scientist               |
-|-------------------------------|
-| [![Jupyter Notebook Logo](https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg)](https://jupyter.org/) |
-| [![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)](https://www.python.org/)     |
-| [![TensorFlow Logo](https://upload.wikimedia.org/wikipedia/commons/1/11/TensorFlowLogo.svg)](https://www.tensorflow.org/) |
-| [![Keras Logo](https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg)](https://keras.io/)               |
+| Frontend                                | AI and Data Scientist                        |
+|-----------------------------------------|----------------------------------------------|
+| [![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)](https://reactjs.org/)         | [![Jupyter Notebook Logo](https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg)](https://jupyter.org/) |
+| [![Tailwind CSS Logo](https://upload.wikimedia.org/wikipedia/commons/4/46/Logo_Tailwind_CSS.svg)](https://tailwindcss.com/)   | [![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)](https://www.python.org/)     |
+| [![Bootstrap Logo](https://upload.wikimedia.org/wikipedia/commons/e/ea/Boostrap_logo.svg)](https://getbootstrap.com/)      | [![TensorFlow Logo](https://upload.wikimedia.org/wikipedia/commons/1/11/TensorFlowLogo.svg)](https://www.tensorflow.org/) |
+|                                          | [![Keras Logo](https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg)](https://keras.io/)               |
 
 
 
