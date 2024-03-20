@@ -1,6 +1,5 @@
-# Welcome to Giga Razki Github!
-## About Me : 
-- 👋 Hi, I’m Giga Razki,
+
+## I’m Giga Razki 
 - 👀 I’m interested in Software Engineering and Data Scientist 
 - 🌱 I’m currently learning Artificial Intelligence 
 
