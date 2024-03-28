@@ -18,7 +18,8 @@
 [![Itsmerazk's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=itsmerazk&theme=radical)](https://github.com/itsmerazk)
 
 
-
+🏆 Github Trophies 
+[![trophy](https://github-profile-trophy.vercel.app/?username=itsmerazk)](https://github.com/itsmerazk/github-profile-trophy)
 
 
 
