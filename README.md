@@ -17,7 +17,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmerazk&layout=compact&theme=radical)](https://github.com/itsmerazk)
 
-[![Itsmerazk's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itsmerazk)](https://github.com/itsmerazk/github-readme-stats)
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itsmerazk)](https://wakatime.com/@itsmerazk)
+
 
 [![Itsmerazk's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=itsmerazk&theme=radical)](https://github.com/itsmerazk)
 
