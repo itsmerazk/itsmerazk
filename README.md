@@ -11,17 +11,17 @@
            
 📊 GitHub Stats
 
-![Itsmerazk GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsmerazk&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+[![Itsmerazk GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsmerazk&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/itsmerazk)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmerazk&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmerazk&layout=compact&theme=radical)](https://github.com/itsmerazk)
 
-![Itsmerazk's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=itsmerazk&theme=radical)
+[![Itsmerazk's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=itsmerazk&theme=radical)](https://github.com/itsmerazk)
 
-![Itsmerazk's Total Contributor](https://github-readme-stats.vercel.app/api/contributors-anuraghazra&theme=radical)
+[![Itsmerazk's Total Contributor](https://github-readme-stats.vercel.app/api/contributors-anuraghazra&theme=radical)](https://github.com/itsmerazk)
 
-![Itsmerazk's Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsmerazk&theme=radical&hide_border=true)
+[![Itsmerazk's Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsmerazk&theme=radical&hide_border=true)](https://github.com/itsmerazk)
 
-![Itsmerazk's Longest Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsmerazk&theme=radical&hide_border=true&dates=false&stroke=0000)
+[![Itsmerazk's Longest Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsmerazk&theme=radical&hide_border=true&dates=false&stroke=0000)](https://github.com/itsmerazk)
 
 
 
