@@ -15,9 +15,8 @@
 
 [![Itsmerazk GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsmerazk&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/itsmerazk)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmerazk&layout=compact&theme=radical)](https://github.com/itsmerazk)
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itsmerazk)](https://wakatime.com/@itsmerazk)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmerazk&layout=compact&theme=radical)](https://github.com/itsmerazk)
 
 
 [![Itsmerazk's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=itsmerazk&theme=radical)](https://github.com/itsmerazk)
