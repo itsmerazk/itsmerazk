@@ -19,7 +19,9 @@
 
 
 🏆 Github Trophies 
-[![trophy](https://github-profile-trophy.vercel.app/?username=itsmerazk)](https://github.com/itsmerazk/github-profile-trophy)
+<a href="https://github.com/itsmerazk/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=itsmerazk" alt="trophy" width="800px">
+</a>
 
 
 
