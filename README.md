@@ -17,11 +17,6 @@
 
 [![Itsmerazk's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=itsmerazk&theme=radical)](https://github.com/itsmerazk)
 
-[![Itsmerazk's Total Contributor](https://github-readme-stats.vercel.app/api/contributors-anuraghazra&theme=radical)](https://github.com/itsmerazk)
-
-[![Itsmerazk's Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsmerazk&theme=radical&hide_border=true)](https://github.com/itsmerazk)
-
-[![Itsmerazk's Longest Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsmerazk&theme=radical&hide_border=true&dates=false&stroke=0000)](https://github.com/itsmerazk)
 
 
 
