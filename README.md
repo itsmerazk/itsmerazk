@@ -1,7 +1,9 @@
 
 ## I’m Giga Razki 
  🎓 Currently im fresh graduate at Dinamika University, majoring in Computer Engineering.
+ 
  👀 I’m interested in Data Scientist, Artificial Intelligence, Web and Mobile Developer.
+ 
  🌱 I’m currently learning Frontend Developer, Artificial Intelligence
  
 🌐 Socials:
